@@ -20,11 +20,12 @@ I am Game Developer from Thailand who passionate about making some cool game and
 
 ### **ALL OF MY REPOSITORY**
 
-|               Subject Repository              |           Related Repository         |  Other Knowledge Repository & ETC.  |
-|-----------------------------------------------|--------------------------------------|-------------------------------------| 
-| [INT203: The Template][INT203_TEMPLATE_LINK]  |  [DevOps: Workshop][DevOps_WS_Link]  |  [FreeCodeCamp][FreeCodeCamp]       |
-| [INT203: The Essential][INT203_CORE_LINK]     |  [Bookinfo: Template][BookinfoTemp]  |  [FreeProgrammingEBook][FreeEbook]  |
-| [INT209: DevOps By P'Dear][INT209_LINK]       |  [Bookinfo: My Version][Bookinfo]    |  [Hidden: The game][Hidden]         |
+|               Subject Repository              |           Related Repository           |  Other Knowledge Repository & ETC.  |
+|-----------------------------------------------|----------------------------------------|-------------------------------------| 
+| [INT203: The Template][INT203_TEMPLATE_LINK]  |  [DevOps: Workshop][DevOps_WS_Link]    |   [FreeCodeCamp][FreeCodeCamp]      |
+| [INT203: The Essential][INT203_CORE_LINK]     |  [Bookinfo: Template][BookinfoTemp]    |  [FreeProgrammingEBook][FreeEbook]  |
+| [INT209: DevOps By P'Dear][INT209_LINK]       |  [Bookinfo: Ratings][Bookinfo-rating]  |  [Hidden: The game][Hidden]         |
+|                                               |  [Bookinfo: Details][Bookinfo-detail]  |                                     |
  
  [//]:<Subject Repository>
  [INT203_TEMPLATE_LINK]:https://github.com/Sharkthoven/INT203_62130500068_Template
@@ -34,7 +35,8 @@ I am Game Developer from Thailand who passionate about making some cool game and
  [//]:<Related Repository>
  [DevOps_WS_Link]:https://github.com/Sharkthoven/devsecops-workshop
  [BookinfoTemp]:https://github.com/Sharkthoven/bookinfo
- [Bookinfo]:https://github.com/Sharkthoven/bookinfo-ratings
+ [Bookinfo-rating]:https://github.com/Sharkthoven/bookinfo-ratings
+ [Bookinfo-detail]:https://github.com/Sharkthoven/bookinfo-details
  
   [//]:<ETC. Repository>
  [FreeCodeCamp]:https://github.com/freeCodeCamp/freeCodeCamp
