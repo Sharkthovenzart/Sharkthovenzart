@@ -26,6 +26,7 @@ I am Game Developer from Thailand who passionate about making some cool game and
 | [INT203: The Essential][INT203_CORE_LINK]     |  [Bookinfo: Template][BookinfoTemp]    |  [FreeProgrammingEBook][FreeEbook]  |
 | [INT209: DevOps By P'Dear][INT209_LINK]       |  [Bookinfo: Ratings][Bookinfo-rating]  |  [Hidden: The game][Hidden]         |
 |                                               |  [Bookinfo: Details][Bookinfo-detail]  |                                     |
+|                                               |  [Static-Web: Opsta][static-opsta]     |                                     |
  
  [//]:<Subject Repository>
  [INT203_TEMPLATE_LINK]:https://github.com/Sharkthoven/INT203_62130500068_Template
@@ -37,6 +38,7 @@ I am Game Developer from Thailand who passionate about making some cool game and
  [BookinfoTemp]:https://github.com/Sharkthoven/bookinfo
  [Bookinfo-rating]:https://github.com/Sharkthoven/bookinfo-ratings
  [Bookinfo-detail]:https://github.com/Sharkthoven/bookinfo-details
+ [static-opsta]:https://github.com/Sharkthoven/opsta-web
  
   [//]:<ETC. Repository>
  [FreeCodeCamp]:https://github.com/freeCodeCamp/freeCodeCamp
