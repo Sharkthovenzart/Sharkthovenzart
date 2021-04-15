@@ -24,13 +24,14 @@ I am Game Developer from Thailand who passionate about making some cool game and
 |-----------------------------------------------|----------------------------------------|-------------------------------------| 
 | [INT203: The Template][INT203_TEMPLATE_LINK]  |  [DevOps: Workshop][DevOps_WS_Link]    |   [FreeCodeCamp][FreeCodeCamp]      |
 | [INT203: The Essential][INT203_CORE_LINK]     |  [Bookinfo: Template][BookinfoTemp]    |  [FreeProgrammingEBook][FreeEbook]  |
-| [INT209: DevOps By P'Dear][INT209_LINK]       |  [Bookinfo: Ratings][Bookinfo-rating]  |  [Hidden: The game][Hidden]         |
-|                                               |  [Bookinfo: Details][Bookinfo-detail]  |                                     |
+| [INT203: The CRUD V2][INT203_CRUD_V2_LINK]    |  [Bookinfo: Ratings][Bookinfo-rating]  |  [Hidden: The game][Hidden]         |
+| [INT209: DevOps By P'Dear][INT209_LINK]       |  [Bookinfo: Details][Bookinfo-detail]  |                                     |
 |                                               |  [Static-Web: Opsta][static-opsta]     |                                     |
  
  [//]:<Subject Repository>
  [INT203_TEMPLATE_LINK]:https://github.com/Sharkthoven/INT203_62130500068_Template
  [INT203_CORE_LINK]:https://github.com/Sharkthoven/INT203_62130500068
+ [INT203_CRUD_V2_LINK]:https://github.com/Sharkthoven/SPA-2
  [INT209_LINK]:https://github.com/Sharkthoven/int209-assignments
  
  [//]:<Related Repository>
