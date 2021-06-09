@@ -36,7 +36,7 @@ I am Game Developer from Thailand who passionate about making some cool game and
  [INT209_LINK]:https://github.com/Sharkthoven/int209-assignments
  
  [//]:<Related Repository>
- [DevOps_WS_Link]:https://github.com/Sharkthoven/devsecops-workshop
+ [DevOps_WS_Link]:https://github.com/opsta/devsecops-workshop
  [BookinfoTemp]:https://github.com/Sharkthoven/bookinfo
  [Bookinfo-rating]:https://github.com/Sharkthoven/bookinfo-ratings
  [Bookinfo-detail]:https://github.com/Sharkthoven/bookinfo-details
