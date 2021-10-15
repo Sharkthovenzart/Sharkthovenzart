@@ -22,11 +22,11 @@ I am Game Developer from Thailand who passionate about making some cool game and
 
 |                   **Subject Repository**                   |             **Related Repository**            |      Other Knowledge Repository & ETC.      |
 |------------------------------------------------------------|-----------------------------------------------|---------------------------------------------| 
-| [INT203: The Template][INT203_TEMPLATE_LINK]               | [DevOps: Workshop][DevOps_WS_Link]            | [FreeCodeCamp][FreeCodeCamp]                |
+| [INT203: The Template][INT203_TEMPLATE_LINK]               | [Static-Web: Opsta][static-opsta]             | [FreeCodeCamp][FreeCodeCamp]                |
 | [INT203: The CRUD FULL w/ REST API][INT203_CRUD_LINK]      | [Bookinfo: Template][BookinfoTemp]            | [FreeProgrammingEBook][FreeEbook]           |
 | [INT203: The Essential][INT203_CORE_LINK]                  | [Bookinfo: Ratings][Bookinfo-rating]          | [Hidden: The game][Hidden]                  |
 | [INT209: DevOps By P'Dear][INT209_LINK]                    | [Bookinfo: Details][Bookinfo-detail]          |                                             |
-|                                                            | [Static-Web: Opsta][static-opsta]             |                                             |
+
 
  
  [//]:<Subject Repository>
@@ -36,13 +36,12 @@ I am Game Developer from Thailand who passionate about making some cool game and
  [INT209_LINK]:https://github.com/Sharkthoven/int209-assignments
  
  [//]:<Related Repository>
- [DevOps_WS_Link]:https://github.com/opsta/devsecops-workshop
  [BookinfoTemp]:https://github.com/Sharkthoven/bookinfo
  [Bookinfo-rating]:https://github.com/Sharkthoven/bookinfo-ratings
  [Bookinfo-detail]:https://github.com/Sharkthoven/bookinfo-details
  [static-opsta]:https://github.com/Sharkthoven/opsta-web
  
-  [//]:<ETC. Repository>
+ [//]:<ETC. Repository>
  [FreeCodeCamp]:https://github.com/freeCodeCamp/freeCodeCamp
  [FreeEbook]:https://github.com/EbookFoundation/free-programming-books
  [Hidden]:https://github.com/Sharkthoven/hidden
