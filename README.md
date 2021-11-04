@@ -1,15 +1,15 @@
 ### Hi there 👋, my name is Sharkthoven.
 #### I am Gamer and Piano Composer :musical_note::musical_note:
-I am Game Developer from Thailand who passionate about making some cool game and tutorial how to make it. I really enjoy learning languages JavaScript or TypeScript. And also nice to meet you all.
+I am Game Developer from Thailand who passionate about making some game(rarely) and some cool thing. I really enjoy learning languages JavaScript or Python. And also nice to meet you all.
 
 ![Sharkthoven's github stats](https://github-readme-stats.vercel.app/api?username=Sharkthoven&show_icons=true&theme=synthwave)
 
 
 
-### Skills: C / Python / Java / JS / HTML / CSS
+### Skills: C / Python (Basic) / JS / HTML / CSS
 
 - 🔭 I’m currently working as Piano Composer at MuseScore. 
-- 🌱 I’m currently learning Vue 3, JavaScript, C++, C#
+- 🌱 I’m currently learning Vue 3, JavaScript, C++, Python
 - 💬 Ask me about anything you want. 
 - 📫 How to reach me: Facebook / Line / Discord  
 - ⚡ Fun fact: "Yesterday is history. Tomorrow is a mystery. Today is a gift. That's why it's called the present" 
@@ -24,8 +24,8 @@ I am Game Developer from Thailand who passionate about making some cool game and
 |------------------------------------------------------------|-----------------------------------------------|---------------------------------------------| 
 | [INT203: The Template][INT203_TEMPLATE_LINK]               | [Static-Web: Opsta][static-opsta]             | [FreeCodeCamp][FreeCodeCamp]                |
 | [INT203: The CRUD FULL w/ REST API][INT203_CRUD_LINK]      | [Bookinfo: Template][BookinfoTemp]            | [FreeProgrammingEBook][FreeEbook]           |
-| [INT203: The Essential][INT203_CORE_LINK]                  | [Bookinfo: Ratings][Bookinfo-rating]          | [Hidden: The game][Hidden]                  |
-| [INT209: DevOps By P'Dear][INT209_LINK]                    | [Bookinfo: Details][Bookinfo-detail]          |                                             |
+| [INT203: The Essential][INT203_CORE_LINK]                  | [Bookinfo: Details][Bookinfo-detail]          | [Hidden: The game][Hidden]                  |
+| [INT209: DevOps By P'Dear][INT209_LINK]                    |                                               |
 
 
  
