@@ -2,7 +2,7 @@
 #### I am Gamer and Piano Composer :musical_note::musical_note:
 I am Game Developer from Thailand who passionate about making some game(rarely) and some cool thing. I really enjoy learning languages JavaScript or Python. And also nice to meet you all.
 
-![Sharkthoven's github stats](https://github-readme-stats.vercel.app/api?username=Sharkthoven&show_icons=true&theme=synthwave)
+![Sharkthoven's github stats](https://github-readme-stats.vercel.app/api?username=Sharkthovenzart&show_icons=true&theme=synthwave)
 
 
 
