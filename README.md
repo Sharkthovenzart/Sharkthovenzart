@@ -6,7 +6,8 @@ I am developer from Thailand who passionate about making some game(rarely) and s
 
 
 
-### Skills: C / Python (Basic) / JS / HTML / CSS
+### Programming Skills: C / Python (Basic) / JS / HTML / CSS
+### Cloud & DevOps Skills: Azure / AWS / Jenkins / GitHub Action / Docker / Terraform / K8S
 
 - 🔭 I’m currently studying 4th year in School of Information Technology.
 - 🌱 I’m currently learning Vue 3, JavaScript, C++, Python
