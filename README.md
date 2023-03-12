@@ -8,7 +8,7 @@ I am developer from Thailand who passionate about making some game(rarely) and s
 
 ### Skills: C / Python (Basic) / JS / HTML / CSS
 
-- 🔭 I’m currently working as Piano Composer at MuseScore. 
+- 🔭 I’m currently studying 4th year in School of Information Technology.
 - 🌱 I’m currently learning Vue 3, JavaScript, C++, Python
 - 💬 Ask me about anything you want. 
 - 📫 How to reach me: Facebook / Line / Discord  
