@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sharkthoven.
+### Hi there 👋, my name is Sharkthovenzart.
 #### I am (kinda) Gamer and Piano Composer :musical_note::musical_note:
 I am developer from Thailand who passionate about making some game(rarely) and some cool thing. I really enjoy learning languages JavaScript or Python. And also nice to meet you all.
 
@@ -9,8 +9,8 @@ I am developer from Thailand who passionate about making some game(rarely) and s
 ### Programming Skills: C / Python (Basic) / JS / HTML / CSS
 ### Cloud & DevOps Skills: Azure / AWS / Jenkins / GitHub Action / Docker / Terraform / K8S
 
-- 🔭 I’m currently studying 4th year in School of Information Technology.
-- 🌱 I’m currently learning Vue 3, JavaScript, C++, Python
+- 🔭 I graduated in IT from School of Information Technology at KMUTT.
+- 🌱 I’m currently working as DevOps Engineer at Accenture (ATC-T).
 - 💬 Ask me about anything you want. 
 - 📫 How to reach me: Facebook / Line / Discord  
 - ⚡ Fun fact: "Yesterday is history. Tomorrow is a mystery. Today is a gift. That's why it's called the present" 
